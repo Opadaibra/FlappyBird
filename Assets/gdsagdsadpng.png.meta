@@ -1,0 +1,672 @@
+fileFormatVersion: 2
+guid: f013a62b338c77041a9b34eb2d098d5a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 719411121424499371
+    second: gdsagdsadpng_0
+  - first:
+      213: -7315417174984610008
+    second: gdsagdsadpng_1
+  - first:
+      213: -5229470637558395816
+    second: gdsagdsadpng_2
+  - first:
+      213: 3677700729712311994
+    second: gdsagdsadpng_3
+  - first:
+      213: 8667593227388310
+    second: gdsagdsadpng_4
+  - first:
+      213: -5850052167515773402
+    second: gdsagdsadpng_5
+  - first:
+      213: -2618897523121674229
+    second: gdsagdsadpng_6
+  - first:
+      213: 1168286633945813226
+    second: gdsagdsadpng_7
+  - first:
+      213: 7488519277955446106
+    second: gdsagdsadpng_8
+  - first:
+      213: 2450744530641354481
+    second: gdsagdsadpng_9
+  - first:
+      213: 1916901881440294124
+    second: gdsagdsadpng_10
+  - first:
+      213: 3298575461153851909
+    second: gdsagdsadpng_11
+  - first:
+      213: -861873469993128402
+    second: gdsagdsadpng_12
+  - first:
+      213: 5772526151991996630
+    second: gdsagdsadpng_13
+  - first:
+      213: -65288828912086759
+    second: gdsagdsadpng_14
+  - first:
+      213: -7724961444052885931
+    second: gdsagdsadpng_15
+  - first:
+      213: 862941948086004618
+    second: gdsagdsadpng_16
+  - first:
+      213: -2588339142522798079
+    second: gdsagdsadpng_17
+  - first:
+      213: -3320384682448830446
+    second: gdsagdsadpng_18
+  - first:
+      213: 7381242800128797039
+    second: gdsagdsadpng_19
+  - first:
+      213: 5330513556810934016
+    second: gdsagdsadpng_20
+  - first:
+      213: -2116872125823305291
+    second: gdsagdsadpng_21
+  - first:
+      213: 98634033784329538
+    second: gdsagdsadpng_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gdsagdsadpng_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 144
+        width: 50
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba209f37a9cdbf900800000000000000
+      internalID: 719411121424499371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 333
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f204d86da6a7a90800000000000000
+      internalID: -7315417174984610008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 333
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c0ffc79203d67b0800000000000000
+      internalID: -5229470637558395816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 319
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe72b01451d90330800000000000000
+      internalID: 3677700729712311994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 319
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695406f412bce1000800000000000000
+      internalID: 8667593227388310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 337
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626e7bd6c8070dea0800000000000000
+      internalID: -5850052167515773402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 366
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08ae27049ec7abd0800000000000000
+      internalID: -2618897523121674229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_7
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 340
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae05d24f086963010800000000000000
+      internalID: 1168286633945813226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 351
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55f2308b909ce760800000000000000
+      internalID: 7488519277955446106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 330
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fefb108a2bc20220800000000000000
+      internalID: 2450744530641354481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_10
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 330
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce4d680ea143a9a10800000000000000
+      internalID: 1916901881440294124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 331
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a45e2c7e4e6cd20800000000000000
+      internalID: 3298575461153851909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 331
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ee9bb35a20a04f0800000000000000
+      internalID: -861873469993128402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_13
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 232
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d0b22a73f12c1050800000000000000
+      internalID: 5772526151991996630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 234
+        width: 64
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911d4e0f72c081ff0800000000000000
+      internalID: -65288828912086759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_15
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 236
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e93a7ce7c6bc490800000000000000
+      internalID: -7724961444052885931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 148
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b23753129c9fb00800000000000000
+      internalID: 862941948086004618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 148
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10080b3734f541cd0800000000000000
+      internalID: -2588339142522798079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 147
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2104df439bf9be1d0800000000000000
+      internalID: -3320384682448830446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 149
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69269e18317f6660800000000000000
+      internalID: 7381242800128797039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 148
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007ae1076d9c9f940800000000000000
+      internalID: 5330513556810934016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3
+        width: 148
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93069640c5f92e0800000000000000
+      internalID: -2116872125823305291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gdsagdsadpng_22
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 148
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2459a72912b6e5100800000000000000
+      internalID: 98634033784329538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
